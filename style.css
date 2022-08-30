@@ -1,0 +1,215 @@
+body {
+  background-color: white;
+  /* max-height: 90vh; */
+  width: 100%;
+
+  overflow-x: hidden;
+}
+
+.logo {
+  position: relative;
+  bottom: 5px;
+  left: 20px;
+}
+
+.logo_size {
+  width: 10%;
+}
+
+.logo-name {
+  font-size: 15px;
+  position: relative;
+  left: 160px;
+  bottom: 120px;
+  font-family: "Lobster", cursive;
+  text-shadow: 2px 2px 5px red;
+}
+
+.img1 {
+  margin: 1%;
+  position: relative;
+  bottom: 120px;
+  border: 5px solid black;
+  background-color: black;
+  right: 10px;
+}
+
+/* .head1 {
+  position: absolute;
+  top: 17px;
+  left: 40px;
+  color: white;
+  font-size: 50px;
+  text-shadow: 0px 0px 5px black;
+} */
+
+.motto {
+  font-size: 15px;
+  position: relative;
+  bottom: 140px;
+  left: 165px;
+  font-family: "Lobster", cursive;
+  text-shadow: 2px 2px 5px red;
+}
+
+.address {
+  font-size: 15px;
+  position: relative;
+  bottom: 150px;
+  left: 165px;
+  font-family: "Lato", sans-serif;
+}
+
+.headLine {
+  position: relative;
+  bottom: 160px;
+  width: 120%;
+  background-color: black;
+  height: 50px;
+  right: 20px;
+}
+
+.city-state {
+  font-size: 15px;
+  position: relative;
+  bottom: 160px;
+  left: 165px;
+  font-family: "Lato", sans-serif;
+}
+
+.contact {
+  border-bottom: 2px solid black;
+  position: relative;
+  right: -1000px;
+  bottom: 770px;
+  font-family: "Lato", sans-serif;
+}
+
+.phone {
+  position: relative;
+  left: 1090px;
+  bottom: 805px;
+  font-family: "Lato", sans-serif;
+}
+
+.twitter {
+  position: relative;
+  text-align: right;
+  bottom: 805px;
+  right: 120px;
+}
+
+.twitter-size {
+  width: 5%;
+}
+
+.insta {
+  position: relative;
+  text-align: right;
+  bottom: 861px;
+  right: 54px;
+}
+
+.insta-size {
+  width: 4.5%;
+}
+
+.facebook {
+  position: relative;
+  text-align: right;
+  bottom: 926px;
+  right: 190px;
+}
+
+.facebook-size {
+  width: 5%;
+}
+
+.who {
+  position: relative;
+  text-align: right;
+  font-size: 50px;
+  right: -875px;
+  bottom: 835px;
+  border-bottom: 5px solid white;
+  color: white;
+  font-family: "Lobster", cursive;
+}
+
+.txt1 {
+  position: relative;
+  font-size: 18px;
+  right: -840px;
+  bottom: 840px;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+
+.how {
+  position: relative;
+  bottom: 1080px;
+  left: 220px;
+  font-size: 60px;
+  border-bottom: 5px solid white;
+  font-family: "Lobster", cursive;
+  color: white;
+}
+
+.txt2 {
+  position: relative;
+  bottom: 1085px;
+  left: 115px;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  color: white;
+}
+
+.img2 {
+  position: relative;
+  text-align: right;
+  bottom: 775px;
+  right: 40px;
+  background-color: black;
+  width: 1240px;
+  left: 5px;
+}
+
+.img2_size {
+  width: 35%;
+  right: 200px;
+  border: 5px solid black;
+}
+
+.money {
+  position: relative;
+  bottom: 1350px;
+  left: 280px;
+  font-size: 60px;
+  border-bottom: 5px solid white;
+  font-family: "Lobster", cursive;
+  color: white;
+}
+
+.img3 {
+  position: relative;
+  text-align: right;
+  bottom: 1050px;
+  right: 15px;
+  background-color: black;
+  width: 1240px;
+  left: 5px;
+}
+
+.img3_size {
+  width: 35%;
+  border: 5px solid black;
+}
+
+.txt3 {
+  position: relative;
+  bottom: 1355px;
+  left: 110px;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  color: white;
+}
